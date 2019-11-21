@@ -1,0 +1,10 @@
+Package: com.nickthedick.ioscage
+Name: iOSCage
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A modern theme for iOS. 
+Author: NickTheDick
+Maintainer: NickTheDick
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+
